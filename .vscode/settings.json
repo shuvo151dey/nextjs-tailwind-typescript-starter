@@ -1,0 +1,10 @@
+// .vscode/settings.json
+{
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.tabSize": 4,
+  "css.validate": false,
+  "stylelint.enable": true,
+}
