@@ -29,3 +29,7 @@ You should know that file, its the default config generated with `npx tailwindcs
 
 **pages/\_app.js**
 Here we integrate `styles/index.css` into the app.
+
+## VS Code
+- Comes with basic vs code config
+- Recommended extensions "Tailwind CSS Intellisense" and "stylelint"
